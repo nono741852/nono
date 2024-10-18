@@ -1,0 +1,10 @@
+*.log
+*.jou
+*.str
+*.wcfg
+FIFO_test.cache/
+FIFO_test.gen/
+FIFO_test.hw/
+FIFO_test.ip_user_files/
+FIFO_test.runs/
+FIFO_test.sim/
